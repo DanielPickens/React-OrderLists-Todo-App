@@ -1,13 +1,22 @@
-# React-OrderLists-Todo-App
- todo app that lets you add a lists of items sorted and then clears contents with functionality is embedded
- 
- REACT Question
-The Challenge
-Let's write a little component in React, OrderedList, which implements an alphabetically sorted list. The component will include a button to enable the user to sort either in ascending or descending order and a second button to permit the list to be cleared.
-Your component should render specific elements according to the following specifications:
-An <input /> element which the user can use to add items to the list. This input field should listen for Enter keydown events (the test suite triggers the onKeyDown event handler specifically) to add the current contents (if nonempty) to the list. After adding an item, the input box should be cleared.
-A <button> element which the user can click to change the direction of the sort. Initially, the button should display text such as the ⬇️ emoji or the text down. When changed to a descending sort, the button should change to a ⬆️ emoji (or text such as up). 
-A <button> element which the user can click to clear the list as well as any contents in the input box (essentially reverting to the component's default state). Use any text you'd like for this button.
-A <ul> element, which should contain a series of <li> elements that represent the sorted list contents.
-There is no predetermined correct answer for style and CSS. Your solution need not look like the demo below but it should demonstrate understanding of basic CSS and user experience principles.
+# To-Do-App-in-React-code
 
+This is a simple To Do Application in react. This is a fun project to do for beginners who are trying to learn and get their hands dirty on React. In this application, I've used React components, React forms, event handlers etc. It is a very easy quick application to do.
+
+## Commands used to install Font awesome:
+
+$ npm i --save @fortawesome/fontawesome-svg-core
+
+$ npm i --save @fortawesome/free-solid-svg-icons
+
+$ npm i --save @fortawesome/react-fontawesome
+
+## Commands used to publish react files in github:
+
+git remote set-url origin https://github.com/abarna1908/To-Do-App-in-React
+
+npm run build
+
+npm run deploy
+
+## The published To-do App:
+https://abarna1908.github.io/To-Do-App-in-React/
