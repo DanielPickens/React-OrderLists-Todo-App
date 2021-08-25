@@ -1,4 +1,4 @@
-React OrderLists Challenge : event listener, and clear contents to default state logic component.
+React OrderedLists Challenge : event listener, and clear contents to default state logic component.
 
 
 
