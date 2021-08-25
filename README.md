@@ -18,5 +18,5 @@ npm run build
 
 npm run deploy
 
-## The published To-do App:
+## The published To-do App:  https://csb-ttyyp-jldvmasbk-danielpickens.vercel.app/
 
